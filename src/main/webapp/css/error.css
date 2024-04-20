@@ -1,0 +1,13 @@
+.errorMsg {
+    /* 设置为红色 */
+    color: red;
+
+    /* 水平居中 */
+    display: block;
+    text-align: center;
+
+    /* 垂直居中 */
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
